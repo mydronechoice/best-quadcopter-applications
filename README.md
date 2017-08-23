@@ -4,13 +4,13 @@ Aerial machines or Modern drones are equipped with lots of amazing and helpful c
 
 Depending on the function these makers perform types likewise have actually been made so that individuals who desire a purpose to be attained by them can utilize them. Those drones' advantage is that the individual using it needs to find out a few functions to use them to their own benefit.
 
-1 such sort of a drone is called a "mapping drone". Where evaluate your service practices are being carried out so as to examine and implement this drone is capable of providing you. You can develop maps with a software interface that's planned to be easy to use.
+one such sort of a drone is called a **"mapping drone"**. Where evaluate your service practices are being carried out so as to examine and implement this drone is capable of providing you. You can develop maps with a software interface that's planned to be easy to use.
 
-It is possible to make 3D videos with waypoints on maps that tell a complete photo of exactly what's currently going on. You can fly through the map made by your own drone so as to make business choices, utilizing the software.
+It is also **possible to make 3D videos with waypoints on maps** that tell a complete photo of exactly what's currently going on. You can fly through the map made by your own drone so as to make business choices, utilizing the software.
 
 ## What Does a Mapping Platform Offer?
 
-A mapping drone together with its software application deals. These measures are called as: fly, method and treatment. Utilizing the platform you have the ability to pick the area that you want to map and the drone computes its flight route to cover that area.
+A mapping drone together with its software application deals. These measures are called as: *fly*, *method* and *treatment*. Utilizing the platform you have the ability to pick the area that you want to map and the drone computes its flight route to cover that area.
 
 A software application is on board which attaches a label with every photo mentioning where it had actually been taken and catches just the ideal pictures. Landing is also automated and the user does not have to interfere with the flight program. He remains in a position to press the button if it's not required to fly or when he believes the location is being mapped by the drone.
 
@@ -20,7 +20,7 @@ The flight programs can be stored in the computer system so that you can replica
 
 ###### Advantages of Drone Aerial Mapping
 
-The standard 3DR, in mapping offers a horde of functions which produce their applications. The benefits include;
+The standard Drone, in mapping offers a horde of functions which produce their applications. The benefits include;
 
 - Resolution - Extra resolution of mechanically generated maps enables the users to focus to information so as to see what is going on
 
@@ -38,9 +38,9 @@ The standard 3DR, in mapping offers a horde of functions which produce their app
 
 - Cover - mapping drones come with a hard case due to the fact that of their task character that is delicate
 
-Is packed with image processing tools and advanced flight preparation. These tools can taking to combine them.
+Is packed with **image processing tools** and **advanced flight preparation**. These tools can taking to combine them.
 
-These tools are easy to use that even a newbie can benefit from them. There isn't any prior or training experience necessary to utilize the application. The aerial maps have yet another characteristic and it's called "visual-spectrum". An expert photogrammetrist would have the ability to let you know what this attribute implies.
+These tools are easy to use that even a newbie can benefit from them. There isn't any prior or training experience necessary to utilize the application. The aerial maps have yet another characteristic and it's called **"visual-spectrum"**. An expert photogrammetrist would have the ability to let you know what this attribute implies.
 
 ###### Extra Features List
 
@@ -51,3 +51,12 @@ These drones offer around 40 minutes of flight time and within this timeframe. E
 There is A mapping drone offered depending on the number. If we consider the benefits of such a machine for organisations which need maps to get information concerning the land, this rate isn't much.
 
 Think about investing to make money from the benefits and more if you're prepared to buy a drone to your business that would end up being robust and beneficial!
+
+## Resources helpful for this project :
+theweek.com/articles/601546/how-drones-are-innovating-mapping
+https://www.buffalo.edu/sustainability/about/news-and-events/latest-news.host.html/content/shared/www/sustainability/articles/news-articles/oil-spill-mapping-drones.detail.html
+http://cee.engin.umich.edu/mapping-landslides-drones-nepal
+http://libguides.wustl.edu/drones4data
+https://www.uakron.edu/est/survey-map-engineering-tech/
+https://ctaar.rutgers.edu/newsletter2/2017/04/april-1---new-drone-operated-surveys.html
+http://www1.udel.edu/udaily/2015/mar/trembanis-drone-data-030615.html
