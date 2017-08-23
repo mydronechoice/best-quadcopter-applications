@@ -54,9 +54,15 @@ Think about investing to make money from the benefits and more if you're prepare
 
 ## Resources helpful for this project :
 theweek.com/articles/601546/how-drones-are-innovating-mapping
+
 https://www.buffalo.edu/sustainability/about/news-and-events/latest-news.host.html/content/shared/www/sustainability/articles/news-articles/oil-spill-mapping-drones.detail.html
+
 http://cee.engin.umich.edu/mapping-landslides-drones-nepal
+
 http://libguides.wustl.edu/drones4data
+
 https://www.uakron.edu/est/survey-map-engineering-tech/
+
 https://ctaar.rutgers.edu/newsletter2/2017/04/april-1---new-drone-operated-surveys.html
+
 http://www1.udel.edu/udaily/2015/mar/trembanis-drone-data-030615.html
