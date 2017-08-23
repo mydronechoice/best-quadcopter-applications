@@ -8,7 +8,7 @@ Depending on the function these makers perform types likewise have actually been
 
 It is possible to make 3D videos with waypoints on maps that tell a complete photo of exactly what's currently going on. You can fly through the map made by your own drone so as to make business choices, utilizing the software.
 
-What Does a Mapping Platform Offer?
+## What Does a Mapping Platform Offer?
 
 A mapping drone together with its software application deals. These measures are called as: fly, method and treatment. Utilizing the platform you have the ability to pick the area that you want to map and the drone computes its flight route to cover that area.
 
@@ -18,31 +18,31 @@ The drone has actually equipped with a software program that then develops maps 
 
 The flight programs can be stored in the computer system so that you can replicate them at a time and without needing to spend time. These are features and they're developed for mapping drones.
 
-Advantages of Drone Aerial Mapping
+###### Advantages of Drone Aerial Mapping
 
 The standard 3DR, in mapping offers a horde of functions which produce their applications. The benefits include;
 
-Resolution - Extra resolution of mechanically generated maps enables the users to focus to information so as to see what is going on
+- Resolution - Extra resolution of mechanically generated maps enables the users to focus to information so as to see what is going on
 
-Auto-pilot - Image acquisition is attained the drone Can make decisions based on the flight plan and via auto-pilot, which indicates the flight is self-governing
+- Auto-pilot - Image acquisition is attained the drone Can make decisions based on the flight plan and via auto-pilot, which indicates the flight is self-governing
 
-Automated workflow - The drone is unable to home and liftoff by itself, it is able to capture pictures, tag them and then the info gathered to make outcomes
+- Automated workflow - The drone is unable to home and liftoff by itself, it is able to capture pictures, tag them and then the info gathered to make outcomes
 
-Processing - Not all drones come geared up with desktop processing that permits the user to communicate with the drone
+- Processing - Not all drones come geared up with desktop processing that permits the user to communicate with the drone
 
-Ability - A mapping drone can flying very low to capture crisp and high-resolution images of the residential or commercial property It maps
+- Ability - A mapping drone can flying very low to capture crisp and high-resolution images of the residential or commercial property It maps
 
-Dependability - a mapping drone's Result could be relied on based upon results with protection area that is exceptional and endurance
+- Dependability - a mapping drone's Result could be relied on based upon results with protection area that is exceptional and endurance
 
-Inexpensive and robust - The qualities can be accomplished utilizing any drone however mapping drones are designed for this function and They're robust and low-cost and long-lasting
+- Inexpensive and robust - The qualities can be accomplished utilizing any drone however mapping drones are designed for this function and They're robust and low-cost and long-lasting
 
-Cover - mapping drones come with a hard case due to the fact that of their task character that is delicate
+- Cover - mapping drones come with a hard case due to the fact that of their task character that is delicate
 
 Is packed with image processing tools and advanced flight preparation. These tools can taking to combine them.
 
 These tools are easy to use that even a newbie can benefit from them. There isn't any prior or training experience necessary to utilize the application. The aerial maps have yet another characteristic and it's called "visual-spectrum". An expert photogrammetrist would have the ability to let you know what this attribute implies.
 
-Extra Features List
+###### Extra Features List
 
 That they have the ability to provide coverage location mapping drones have a better battery life. See how much space will be covered at the time and you do not have to stress over determining flight time. The drone permits you to specify that location, which will be covered in a flight plan and does all of the calculations.
 
