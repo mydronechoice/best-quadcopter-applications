@@ -61,6 +61,8 @@ http://libguides.wustl.edu/drones4data
 
 https://www.uakron.edu/est/survey-map-engineering-tech/
 
+http://www.ichoosedrone.us/drones-use-safety-and-regulation/
+
 https://ctaar.rutgers.edu/newsletter2/2017/04/april-1---new-drone-operated-surveys.html
 
 http://www1.udel.edu/udaily/2015/mar/trembanis-drone-data-030615.html
