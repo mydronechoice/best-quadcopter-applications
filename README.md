@@ -16,7 +16,7 @@ A software application is on board which attaches a label with every photo menti
 
 The drone has actually equipped with a software program that then develops maps based upon how big the drone has been able to fly and collects all of the pictures. There's an option so that you could see whatever to highly objects and information of zooming in.
 
-The flight programs can be stored in the computer system so that you can replicate them at a time and without needing to spend time. These are features and they're developed for mapping drones.
+The flight programs can be stored in the computer system so that you can replicate them at a time and without needing to spend time. These are features and they're developed as [best quadcopter](https://www.mydronechoice.com/) for mapping.
 
 ###### Advantages of Drone Aerial Mapping
 
